@@ -5,4 +5,4 @@ I am a ECE master student at Duke University, with interests in machine learning
 * 2020 - present, M.S. in ECE, Duke University
 * 2016 - 2020, B.S. in Physics, Sun Yat-sen University
 
-### [Note](./note.md)
+### [Notes](./note.md)
